@@ -1,0 +1,3 @@
+[submodule "OA_backend_core"]
+	path = OA_backend_core
+	url = git@github.com:panelona/OA_backend_core.git
