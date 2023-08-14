@@ -4,3 +4,6 @@
 [submodule "OA_Email_Service"]
 	path = OA_Email_Service
 	url = git@github.com:willsantos/OA_Email_Service.git
+[submodule "OA_Shop_Service"]
+	path = OA_Shop_Service
+	url = git@github.com:willsantos/OA_Shop_Service.git
