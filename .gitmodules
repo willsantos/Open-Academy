@@ -7,3 +7,6 @@
 [submodule "OA_Shop_Service"]
 	path = OA_Shop_Service
 	url = git@github.com:willsantos/OA_Shop_Service.git
+[submodule "OA_frontend"]
+	path = OA_frontend
+	url = git@github.com:willsantos/OA_frontend.git
