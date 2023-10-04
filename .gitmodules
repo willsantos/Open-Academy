@@ -1,15 +1,20 @@
 [submodule "OA_backend_core"]
 	path = OA_backend_core
 	url = git@github.com:panelona/OA_backend_core.git
+	branch= main
 [submodule "OA_Email_Service"]
 	path = OA_Email_Service
 	url = git@github.com:willsantos/OA_Email_Service.git
+	branch= main
 [submodule "OA_Shop_Service"]
 	path = OA_Shop_Service
 	url = git@github.com:willsantos/OA_Shop_Service.git
+	branch= main
 [submodule "OA_frontend"]
 	path = OA_frontend
 	url = git@github.com:willsantos/OA_frontend.git
+	branch= main
 [submodule "OA_Client"]
 	path = OA_Client
 	url = git@github.com:willsantos/OA_Client.git
+	branch= main
