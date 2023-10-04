@@ -10,3 +10,6 @@
 [submodule "OA_frontend"]
 	path = OA_frontend
 	url = git@github.com:willsantos/OA_frontend.git
+[submodule "OA_Client"]
+	path = OA_Client
+	url = git@github.com:willsantos/OA_Client.git
